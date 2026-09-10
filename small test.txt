@@ -1,0 +1,54 @@
+﻿Nhap BibberID: Minh
+Nhap amount: 234  
+Nhap timestamp: 21
+Nhap auctionld234
+Nhap BibberID: 123
+Nhap amount: 123
+Nhap timestamp: 12431
+Nhap auctionld123
+Nhap BibberID: 12
+Nhap amount: 124
+Nhap timestamp: 21
+Nhap auctionld32
+
+
+Nhap BibberID: 4212
+Nhap amount: 231
+Nhap timestamp: 123
+Nhap auctionld23
+Nhap BibberID: 43
+Nhap amount: 23
+Nhap timestamp: 123
+Nhap auctionld124
+Nhap BibberID: 124
+Nhap amount: 123
+Nhap timestamp: 124
+Nhap auctionld123
+
+
+Nhap BibberID: 1241
+Nhap amount: 24
+Nhap timestamp: 124
+Nhap auctionld124
+Nhap BibberID: 1241
+Nhap amount: 2412
+Nhap timestamp: 41
+Nhap auctionld2312
+Nhap BibberID: 3
+Nhap amount: 213
+Nhap timestamp: 12312
+Nhap auctionld312
+Stable
+Nhap BibberID: 312
+Nhap amount: 3
+Nhap timestamp: 123
+Nhap auctionld
+1345
+Nhap BibberID: 23
+Nhap amount: 123
+Nhap timestamp: 123
+Nhap auctionld123
+Nhap BibberID: 123
+Nhap amount: 123
+Nhap timestamp: 123
+Nhap auctionld123
